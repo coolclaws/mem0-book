@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as r,ag as d}from"./chunks/framework.BZohXCq9.js";const b=JSON.parse('{"title":"完整目录","description":"","frontmatter":{},"headers":[],"relativePath":"contents.md","filePath":"contents.md"}'),h={name:"contents.md"};function o(n,t,l,s,c,i){return a(),r("div",null,[...t[0]||(t[0]=[d("",15)])])}const p=e(h,[["render",o]]);export{b as __pageData,p as default};

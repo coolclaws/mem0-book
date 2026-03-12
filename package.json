@@ -1,0 +1,19 @@
+{
+  "name": "mem0-book",
+  "version": "1.0.0",
+  "description": "mem0 源码解析 —— AI Agent 智能记忆层深度剖析",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolclaws/mem0-book.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "type": "module"
+}
