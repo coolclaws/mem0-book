@@ -16,7 +16,7 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    logo: { src: '/logo.svg', alt: 'mem0' },
+    logo: { src: '/logo.png', alt: 'mem0' },
 
     nav: [
       { text: '开始阅读', link: '/chapters/01-overview' },
